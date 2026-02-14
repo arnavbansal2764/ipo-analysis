@@ -1,0 +1,6 @@
+requests
+bs4
+chromium
+playwright
+pypdf
+pymupdf4llm
